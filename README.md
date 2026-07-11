@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @AMANKUMAR7777
-- 👀 I’m interested in Programming and some other stuffs like webdesigning, video editing etc.
-- 🌱 I’m currently learning Programming
-- 📫 My Instagram id - @iblameee.aman
-
-<!---
-AMANKUMAR7777/AMANKUMAR7777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🛠️ Tech Stack
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
