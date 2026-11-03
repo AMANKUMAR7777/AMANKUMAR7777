@@ -1,13 +1,36 @@
-###  Tech Stack & OS
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
+# Aman Kumar
 
+**Developer. I build small, sharp tools that make computers less annoying.**
 
-###  Let's Connect
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/cs2isgay)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
+I am **Aman Kumar** — `AMANKUMAR7777` on GitHub — a developer working on local-first
+software, browser experiments and everyday automation. Most of my work starts with a
+small annoyance and ends with a tool I use myself.
+
+Personal site & portfolio: **[amankumar7777.github.io](https://amankumar7777.github.io/)**
+
+---
+
+### Selected work
+
+| Project | What it does |
+| --- | --- |
+| **[SiftAI](https://github.com/AMANKUMAR7777/SiftAI)** | Universal file organizer driven by local LLM models. Zero deletions, soft modern UI. Python. |
+| **[PDS — Paper Drive Storage](https://github.com/AMANKUMAR7777/PDS-Paper-Drive-Storage-)** | High-density paper data storage: encode a file into a pixel grid, print it on A4, decode it back with a camera. |
+| **[sys-mon](https://github.com/AMANKUMAR7777/sys-mon)** | Lightweight terminal resource monitor with a UI worth looking at. Python. |
+| **[GLSL-Stress](https://glsl-stress.vercel.app)** | WebGL ray-marching stress test with live-editable shaders. [Source](https://github.com/AMANKUMAR7777/GLSL-Stress). |
+| **[fapt](https://github.com/AMANKUMAR7777/fapt)** | Bash script that shortens Debian and Ubuntu package workflows. Shell. |
+| **[CssAnimationStudio](https://css-animation-studio-seven.vercel.app)** | Web tool to build and preview CSS animations. [Source](https://github.com/AMANKUMAR7777/CssAnimationStudio). |
+
+### Stack
+
+`Python` · `JavaScript` · `TypeScript` · `C++` · `React` · `HTML` · `CSS` · `WebGL` · `Fedora Linux`
+
+### Elsewhere
+
+- Website — [amankumar7777.github.io](https://amankumar7777.github.io/)
+- GitHub — [github.com/AMANKUMAR7777](https://github.com/AMANKUMAR7777)
+- LinkedIn — _add URL_
+- X — _add URL_
+- Email — _add address_
+
+<sub>Aman Kumar · AMANKUMAR7777 · developer, open-source, Python, JavaScript, WebGL</sub>
