@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240" role="img" aria-label="Aman Kumar, developer">
+  <rect width="1200" height="240" fill="#14110f"/>
+  <text x="56" y="122" font-family="Georgia, 'Times New Roman', serif" font-size="76" font-weight="700"
+        letter-spacing="-2" fill="#f7f4ed">Aman Kumar</text>
+  <rect x="56" y="142" width="104" height="5" fill="#d1603f"/>
+  <text x="56" y="184" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="19"
+        letter-spacing="4" fill="#a79e8d">DEVELOPER · LOCAL-FIRST TOOLS · AMANKUMAR7777</text>
+  <text x="1144" y="212" text-anchor="end" font-family="ui-monospace, Menlo, Consolas, monospace"
+        font-size="15" letter-spacing="3" fill="#4a443a">PYTHON · JS · WEBGL</text>
+</svg>
