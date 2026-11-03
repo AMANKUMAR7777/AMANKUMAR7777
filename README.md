@@ -31,6 +31,6 @@ Personal site & portfolio: **[amankumar7777.github.io](https://amankumar7777.git
 - GitHub — [github.com/AMANKUMAR7777](https://github.com/AMANKUMAR7777)
 - LinkedIn — [linkedin.com/in/amankumar-builds](https://www.linkedin.com/in/amankumar-builds/)
 - X — [x.com/AMANKUM49168830](https://x.com/AMANKUM49168830)
-- Email — _add address_
+- Email — [aman.build@proton.me](mailto:aman.build@proton.me)
 
 <sub>Aman Kumar · AMANKUMAR7777 · developer, open-source, Python, JavaScript, WebGL</sub>
