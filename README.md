@@ -4,13 +4,13 @@
 </picture>
 
 <p align="center">
-  <b>I build small, sharp tools that make computers less annoying.</b><br>
+  <b>Aman Kumar</b> — I build small, sharp tools that make computers less annoying.<br>
   Local-first software, browser experiments, and scripts I use daily.<br>
   Most projects start as a personal annoyance and end as something you can run.
 </p>
 
 <p align="center">
-  <a href="https://amankumar7777.github.io/">Website</a> &nbsp;·&nbsp;
+  <a href="https://amankumar7777.github.io/">Aman Kumar — portfolio</a> &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/amankumar-builds/">LinkedIn</a> &nbsp;·&nbsp;
   <a href="https://x.com/AMANKUM49168830">X</a> &nbsp;·&nbsp;
   <a href="mailto:aman.build@proton.me">Email</a>
