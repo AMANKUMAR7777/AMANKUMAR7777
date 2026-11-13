@@ -18,7 +18,7 @@
 
 ---
 
-### 🔨 Building now
+###  Building now
 
 **[SiftAI](https://github.com/AMANKUMAR7777/SiftAI)** — a universal file organizer driven by a local LLM.
 Point it at a messy Downloads folder, and it proposes a structure, then moves files into it.
@@ -26,7 +26,7 @@ It never deletes anything without keeping a copy. Python, fully local, no cloud 
 
 ---
 
-### 🧰 Selected work
+###  Selected work
 
 | Project | What it does | Stack |
 | :--- | :--- | :--- |
@@ -48,7 +48,7 @@ It never deletes anything without keeping a copy. Python, fully local, no cloud 
 
 ---
 
-### ⚙️ Stack
+###  Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
